@@ -3,9 +3,10 @@
 Brain2Speech turns EEG signals from a Muse headband into user input and utilizes a GUI that turns a unary input into speech.
 
 
-Here's is a [live demo on Youtube](https://youtu.be/8XR4ANnCEHw).
+Here's a [live demo on Youtube](https://youtu.be/8XR4ANnCEHw).
 
-![Demo image](/demo.JPG)
+<div style="text-align:center"><img src="/demo.JPG" width="650"></div>
+
 
 
 
