@@ -19,7 +19,7 @@ CHARS = [  # select from top then right
     ['G', 'H', 'I', 'J', 'K', 'L'],  # 2
     ['M', 'N', 'O', 'P', 'Q', 'R'],  # 3
     ['S', 'T', 'U', 'V', 'W', 'X'],  # 4
-    ['Y', 'Z', ' ', ' ', '_', 'END']]  # 5
+    ['Y', 'Z', ' ', ' ', ' ', 'END']]  # 5
 
 count = 0
 past_time = datetime.now()
