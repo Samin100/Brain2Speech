@@ -1,6 +1,6 @@
 # Introduction
 
-Brain2Speech turns EEG signals from a Muse headband into user input and utilizes a GUI that turns a unary input into speech.
+Brain2Speech gives paralyzed individuals the ability to communicate by picking up on their EEG activity. The EEG signals from a Muse headband into user input and utilizes a GUI that turns a unary input into speech.
 
 <div style="text-align:center"><img src="/brain2speech.gif" width="650"></div>
 
